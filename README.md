@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @A7medNa3em
 - 👀 I’m interested in embedded systems 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmedaneng@gmail.com
 
 <!---
