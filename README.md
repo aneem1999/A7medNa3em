@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @A7medNa3em
-- 👀 I’m interested in embedded systems 
+- 👀 I am ambitious embedded systems graduate from Faculty of Electronic Engineering, Menoufia University, studying electronics and control engineering.
+     I am interested in embedded systems and robotics
 - 📫 How to reach me ahmedaneng@gmail.com
 
 <!---
